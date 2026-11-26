@@ -1,0 +1,11 @@
+{
+  "name": "u-eager-stork-81-9647-the-printer-apology-60229153",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An office printer apologises for jamming, explaining that after reading every word it has printed this year, jamming is the only edit it is allowed. Built by an",
+  "license": "MIT",
+  "scripts": {
+    "entry": "mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
